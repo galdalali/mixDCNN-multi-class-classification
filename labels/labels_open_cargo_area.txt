@@ -1,0 +1,2 @@
+open_cargo_area
+no_open_cargo_area

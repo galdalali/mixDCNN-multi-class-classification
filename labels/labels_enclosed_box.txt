@@ -1,0 +1,2 @@
+enclosed_box
+no_enclosed_box

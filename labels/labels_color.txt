@@ -1,0 +1,8 @@
+red
+black
+blue
+silver/grey
+white
+other
+yellow
+green

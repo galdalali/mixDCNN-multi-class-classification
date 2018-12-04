@@ -1,0 +1,2 @@
+enclosed_cab
+no_enclosed_cab

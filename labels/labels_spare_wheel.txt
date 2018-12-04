@@ -1,0 +1,2 @@
+spare_wheel
+no_spare_wheel

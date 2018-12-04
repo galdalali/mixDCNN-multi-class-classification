@@ -1,0 +1,15 @@
+minibus
+hatchback
+sedan
+bus
+minivan
+truck
+van
+jeep
+cement mixer
+dedicated agricultural vehicle
+tanker
+crane truck
+pickup
+light truck
+prime mover

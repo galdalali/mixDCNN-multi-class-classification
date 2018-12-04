@@ -1,0 +1,2 @@
+flatbed
+no_flatbed
